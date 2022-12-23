@@ -1,4 +1,7 @@
-# restaurant_menu_ordering
+#https://github.com/jeevansai-m/MobileApp
+# restaurant_Table ordering
+I've utilized the flutter and dart  programming languages.To create an app, I used flutter launcher icons, geocoding, network image, geolocator, vibration, and splash screen.
+In this app, you may examine restaurants, their addresses, and your present locations. By clicking a restaurant, your phone will vibrate and show you where you are.
 
 A new Flutter project.
 
